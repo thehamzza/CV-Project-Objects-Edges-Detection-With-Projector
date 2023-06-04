@@ -8,4 +8,5 @@ Project for detecting objects edges and then projecting shapes/skeletons via a c
 #### Sample Video of V5
 https://github.com/thehamzza/CV-Project-Objects-Edges-Detection-With-Projector/assets/45312947/851397e3-5302-4ba4-8293-7738469db105
 
-
+#### PDF of Feasibility Report
+https://github.com/thehamzza/CV-Project-Objects-Edges-Detection-With-Projector/blob/main/Feasibility%20Report.pdf
